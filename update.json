@@ -1,5 +1,6 @@
 {
-  "versionCode": 6,
-  "apkUrl": "https://raw.githubusercontent.com/NaitsirhcZero/techservicepc/main/app-release.apk",
-  "releaseNotes": "Update: Nueva versión disponible (v1.5.1) ¡Nuevas mejoras y servicios!"
+  "version": "1.0.7",
+  "latest_version": "1.0.6",
+  "release_notes": "Medidor de velocidad optimizado, tienda con detalles independientes y mejoras en minijuegos.",
+  "url": "https://github.com/NaitsirhcZero/techservicepc/releases"
 }
