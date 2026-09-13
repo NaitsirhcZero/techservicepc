@@ -1,6 +1,5 @@
 {
-  "version": "1.0.7",
-  "latest_version": "1.0.7",
-  "release_notes": "Medidor de velocidad optimizado, tienda con detalles independientes y mejoras en minijuegos.",
-  "url": "https://github.com/NaitsirhcZero/techservicepc/releases"
+  "version": "1.0.6",
+  "url": "https://github.com/NaitsirhcZero/techservicepc/releases/download/v1.0.6/app-debug.apk",
+  "release_notes": "Historial de versiones activado y botón de descarga directa integrado."
 }
